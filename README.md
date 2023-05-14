@@ -2,13 +2,13 @@
 
 I'm Abul Hossain adnan. Man of many talents (humble brag): A **self taught Developer and programmer**. I also love selling people crazy ideas!
 
-- 🌱 I’m currently learning -  Vue js, Docker,ngin and apache server .
+- 🌱 I’m currently learning -  Vue js, Docker,nginx and apache server .
 - ⚡ Fun fact: I have a thing for mechanical keyboards - an obsession really and I'm super funny (at least some times)!
 
 ### Projects I'm proud of! 😁
 - [Efire license](http://elicense.viewdemo.xyz) - Efire license is large scale Government Project. My Rule was to increse performance and Updated version 5 to9!
 - [Workshop Management System](Sequrity issue) -This is another Government project. Partially worked with other team member's From scratch and enjoyed a lot. 
-- [University Management System](sequeity issue) - University Management System for East West University.I a'm Proud To be part of this project.Three Sub project Incuded to build this prodigious System.BUild with my team member's from Scratch to end with php,laravel, mysql and vue js.Worked on Some Amazing feature like AWS, Otp varification, chat system, sms getway, PWA(prograsive web application).
+- [University Management System](--------) - University Management System for East West University.I a'm Proud To be part of this project.Three Sub project Incuded to build this prodigious System.BUild with my team member's from Scratch to end with php,laravel, mysql and vue js.Worked on Some Amazing feature like AWS, Otp varification, chat system, sms getway, PWA(prograsive web application).
 - [Ecommerce System](https://happyheelbd.com) - An interactive Single vendor Ecommerce web-app that goes into the use cases of selling Shoes.
 
 
@@ -30,7 +30,7 @@ I'm Abul Hossain adnan. Man of many talents (humble brag): A **self taught Devel
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abulhossain-adnan&show_icons=true&locale=en&layout=compact" alt="abulhossain-adnan" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abulhossain-adnan&show_icons=true&locale=en" alt="abulhossain-adnan" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abulhossain-adnan&show_icons=true&locale=en" alt="abulhossain-adnan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abulhossain-adnan&" alt="abulhossain-adnan" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abulhossain-adnan&" alt="abulhossain-adnan" /></p> -->
 
