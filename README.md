@@ -30,7 +30,7 @@ I'm Abul Hossain adnan. Man of many talents (humble brag): A **self taught Devel
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abulhossain-adnan&show_icons=true&locale=en" alt="abulhossain-adnan" /></p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abulhossain-adnan&show_icons=true&locale=en&layout=compact" alt="abulhossain-adnan" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abulhossain-adnan&show_icons=true&locale=en&layout=compact" alt="abulhossain-adnan" /></p>
 
 
 
