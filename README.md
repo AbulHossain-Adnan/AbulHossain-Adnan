@@ -8,13 +8,7 @@ I'm Abul Hossain adnan. Man of many talents (humble brag): A **self taught Devel
 ### Projects I'm proud of! 😁
 - [MultiSaas(Multitinancy php laravel Codecanyon based Project)](https://multipurposesass.com/) - 
 
-   .Developed and maintained a multitenancy PHP Laravel SaaS-based application, ensuring high availability and performance.
-   .Conducted regular maintenance, troubleshooting, and bug fixing to ensure optimal functionality and user experience.
-   .Designed and implemented new features to increase sales and improve user engagement, resulting in a 15% boost in revenue.
-   .Utilized Wasabi cloud storage for efficient data management and backup solutions.
-   .Implemented CI/CD pipelines, reducing deployment time by 50%.
-   .CloudStorage, Recurring payment gateway, webhooks!
-   .Builed Three Separate Module for Multisaas (CloudStorage,HotelBooking,Restaurant Management System).
+   .Maintained a multitenancy PHP Laravel SaaS-based application, ensuring high availability and performance.
    
 - [Efire license](http://elicense.viewdemo.xyz) - 
    .Efire license is large scale Government Project. My Rule was to increse performance and Updated version 5 to 9!
