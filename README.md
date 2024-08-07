@@ -5,25 +5,13 @@ I'm Abul Hossain adnan. Man of many talents (humble brag): A **self taught Devel
 - 🌱 I’m currently learning -  Vue js, Docker,nginx and apache server .
 - ⚡ Fun fact: I have a thing for mechanical keyboards - an obsession really and I'm super funny (at least some times)!
 
-### Projects I'm proud of! 😁
-- [MultiSaas(Multitinancy php laravel Codecanyon based Project)](https://multipurposesass.com/) - 
-
-- [Efire license(Government Project ](http://elicense.viewdemo.xyz) - 
-
-- [University Management System](https://alumni.ewubd.edu/) - 
-
-### Look me up! 🕵️ 
-
-- Facebook: https://www.facebook.com/profile.php?id=100068598884732
-- LinkedIn: https://www.linkedin.com/in/abul-hossain-1a98b0231/
-- Skype: https://join.skype.com/invite/pZllA7fEdQuB
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abul hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abul hossain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:18858726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:18858726" height="30" width="40" /></a>
-<a href="https://fb.com/md abul hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md abul hossain" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on Laravel
+- 🌱 I’m currently learning REACT.JS
+- 👯 I’m looking to collaborate on Blockchain
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about anything about tech
+- 📫 How to reach me: hossain_shohan1@live.com
+- ⚡ Fun fact: I love travelling
 
 #### My Current Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
