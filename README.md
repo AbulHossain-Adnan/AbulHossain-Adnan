@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning VUE.JS
 - 💬 Ask me about anything about tech
-- 📫 How to reach me: alhossain.a92@.com
+- 📫 How to reach me: alhossain.a92@gmail.com
 - ⚡ Fun fact: I love travelling
 
 #### My Current Stack
