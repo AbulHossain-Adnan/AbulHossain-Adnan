@@ -1,9 +1,6 @@
-### Hello! 👋
+### Hello there 👋
 
-I'm Abul Hossain adnan. Man of many talents (humble brag): A **self taught Developer and programmer**. I also love selling people crazy ideas!
-
-- 🌱 I’m currently learning -  Vue js, Docker,nginx and apache server .
-- ⚡ Fun fact: I have a thing for mechanical keyboards - an obsession really and I'm super funny (at least some times)!
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning REACT.JS
