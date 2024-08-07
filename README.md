@@ -1,4 +1,5 @@
 ### Hello! 👋
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
 
 I'm Abul Hossain adnan. Man of many talents (humble brag): A **self taught Developer and programmer**. I also love selling people crazy ideas!
 
