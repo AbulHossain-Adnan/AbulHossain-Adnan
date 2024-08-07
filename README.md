@@ -11,10 +11,7 @@ I'm Abul Hossain adnan. Man of many talents (humble brag): A **self taught Devel
 
 - [Efire license(Government Project ](http://elicense.viewdemo.xyz) - 
 
-- [University Management System](--------) - 
-   .University Management System for East West University.I a'm Proud To be part of this project.Three Sub project Incuded to build this prodigious 
-   System.BUild with my team member's from Scratch to end with php,laravel, mysql and vue js.
-   Worked on Some Amazing feature like Otp varification, chat system, sms getway, PWA(prograsive web application).
+- [University Management System](https://alumni.ewubd.edu/) - 
 
 ### Look me up! 🕵️ 
 
