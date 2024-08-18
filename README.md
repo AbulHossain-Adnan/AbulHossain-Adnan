@@ -45,17 +45,6 @@
 
 
   
-📊 Statistics
-
-<p align="center">
-<a href="https://github.com/AbulHossain-Adnan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbulHossain-Adnan&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbulHossain-Adnan&layout=compact&langs_count=8&theme=gotham"/>
-</a>
-</p>
-  
-
-<p><img width="100%" height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbulHossain-Adnan&exclude_days=Fri" alt="AbulHossain-Adnan" /></p>
 
 <table width="100%">
   <thead align="center">
